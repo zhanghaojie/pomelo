@@ -68,12 +68,27 @@ With the following references, you can quickly familiarize yourself with the pom
 * @GeforceLee
 * Harold Jiang(@jzsues)
 * @ETiV
+* [kaisatec](https://github.com/kaisatec)
+* [roytan883](https://github.com/roytan883)
+* [wuxian](https://github.com/wuxian)
+* [zxc122333](https://github.com/zxc122333)
+* [newebug](https://github.com/newebug)
+* [jiangzhuo](https://github.com/jiangzhuo)
+* [youxiachai](https://github.com/youxiachai)
+* [qiankanglai](https://github.com/qiankanglai)
+* [xieren58](https://github.com/xieren58)
+* [prim](https://github.com/prim)
+* [Akaleth](https://github.com/Akaleth)
+* [pipi32167](https://github.com/pipi32167)
+* [ljhsai](https://github.com/ljhsai)
+* [zhanghaojie](https://github.com/zhanghaojie)
+* [airandfingers](https://github.com/airandfingers)
 
 ## License
 
 (The MIT License)
 
-Copyright (c) 2012-2013 NetEase, Inc. and other contributors
+Copyright (c) 2012-2014 NetEase, Inc. and other contributors
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
